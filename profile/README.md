@@ -9,7 +9,9 @@
 | 1 | 2019166| [olumpiaalexopoulou](https://github.com/olumpiaalexopoulou) |
 | 2 | 2018171 | [perikarananou](https://github.com/perikarananou) |
 | 3 | 2019061 | [Tilav](https://github.com/tilav) |
-| 4 | 2020068 | [lefterisan](https://github.com/lefterisan) |
+| 4 | 2020171 | [p20oiko](https://github.com/p20oiko) |
+| 5 | 2020114 | [petrakhh](https://github.com/petrakhh) |
+| 6 | 2020068 | [lefterisan](https://github.com/lefterisan) |
 
 
 
