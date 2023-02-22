@@ -12,8 +12,9 @@
 | 4 | 2020171 | [p20oiko](https://github.com/p20oiko) |
 | 5 | 2020114 | [petrakhh](https://github.com/petrakhh) |
 | 6 | 2020068 | [lefterisan](https://github.com/lefterisan) |
-| 7 | 2020124 | [p20lilo](https://github.com/p20lilo)
-
+| 7 | 2020124 | [p20lilo](https://github.com/p20lilo) |
+| 8 | 2020113 | [p20bour2](https://github.com/p20bour2) |
+| 9 | 2020101 | [p20fytr](https://github.com/p20fytr) |
 
 
 
