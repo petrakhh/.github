@@ -4,17 +4,17 @@
 
 ### Τα μέλη της ομάδας
 ---
-| # | ΑΜ | GitHub profile |
-| -- | -- | -- |
-| 1 | 2019166| [olumpiaalexopoulou](https://github.com/olumpiaalexopoulou) |
-| 2 | 2018171 | [perikarananou](https://github.com/perikarananou) |
-| 3 | 2019061 | [Tilav](https://github.com/tilav) |
-| 4 | 2020171 | [p20oiko](https://github.com/p20oiko) |
-| 5 | 2020114 | [petrakhh](https://github.com/petrakhh) |
-| 6 | 2020068 | [lefterisan](https://github.com/lefterisan) |
-| 7 | 2020124 | [p20lilo](https://github.com/p20lilo) |
-| 8 | 2020113 | [p20bour2](https://github.com/p20bour2) |
-| 9 | 2020101 | [p20fytr](https://github.com/p20fytr) |
+| # | ΑΜ | GitHub profile | Ονοματεπώνυμο |
+| -- | -- | -- | -- |
+| 1 | 2019166| [olumpiaalexopoulou](https://github.com/olumpiaalexopoulou) | Ολυμπία Στεριανή Αλεξοπούλου |
+| 2 | 2018171 | [perikarananou](https://github.com/perikarananou) | Περιστέρα Καρανάνου |
+| 3 | 2019061 | [Tilav](https://github.com/tilav) | Ελένη Τηλαβερίδου |
+| 4 | 2020171 | [p20oiko](https://github.com/p20oiko) | Σταυρούλα Οικονόμου |
+| 5 | 2020114 | [petrakhh](https://github.com/petrakhh) | Χριστίνα Πετράκη |
+| 6 | 2020068 | [lefterisan](https://github.com/lefterisan) | Λευτέρης Ανδριώτης |
+| 7 | 2020124 | [p20lilo](https://github.com/p20lilo) | Χριστίνα Λιλολλάρη |
+| 8 | 2020113 | [p20bour2](https://github.com/p20bour2) | Κωνσταντίνα Μπουργάνη |
+| 9 | 2020101 | [p20fytr](https://github.com/p20fytr) | Έφη Φυτριάδη |
 
 
 
