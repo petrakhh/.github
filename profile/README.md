@@ -27,7 +27,7 @@ ___
 
 
 
-
+<img src="https://github.com/Ranger-Power/.github/blob/main/profile/photos/power-rangers_final_wide-d431032be9ea4662eaa3a33f35b6c194dd938d98.jpg" alt="" width="640" height="400">
 
 
 
